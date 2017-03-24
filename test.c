@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	int i = 321;
+	int i = 456;
 	//modified
 	printf("%d\n", i);
 
